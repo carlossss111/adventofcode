@@ -6,7 +6,7 @@
 |01|&#10003;|C|The language made this harder than it needed to be|
 |02|&#10003;|C|Too many macros; never again|
 |03|&#10003;|C++||
-|04||||
+|04|&#10003;|Bash|Easier to program, harder to read|
 |05||||
 |06||||
 |07||||
