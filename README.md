@@ -7,7 +7,7 @@
 |02|&#10003;|C|Too many macros; never again|
 |03|&#10003;|C++||
 |04|&#10003;|Bash|Easier to program, harder to read|
-|05||||
+|05|&#10003;|JavaScript||
 |06||||
 |07||||
 |08||||
