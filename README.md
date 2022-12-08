@@ -9,7 +9,7 @@
 |04|&#10003;|Bash|Easier to program, harder to read|
 |05|&#10003;|JavaScript||
 |06|&#10003;|C||
-|07||||
+|07|&#10003;|Java|Trees!|
 |08||||
 |09||||
 |10||||
